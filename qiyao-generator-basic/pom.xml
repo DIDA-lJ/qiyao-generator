@@ -7,7 +7,9 @@
     <groupId>com.qiyao</groupId>
     <artifactId>qiyao-generator-basic</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+    <properties>
+        <java.version>17</java.version>
+    </properties>
     <dependencies>
         <!-- https://freemarker.apache.org/index.html -->
         <dependency>
